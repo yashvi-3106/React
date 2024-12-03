@@ -92,7 +92,7 @@ function Homepage() {
     <div className="box6">
         <img className="icon" src="images/icon6.png" ></img>
            <h4 className="txt2">Advanced <br></br> IT analytics</h4>
-              <p class="txt1">Unified IT analytics | AI-powered insights | <br></br> IT data correlation | Capacity planning</p>
+              <p className="txt1">Unified IT analytics | AI-powered insights | <br></br> IT data correlation | Capacity planning</p>
     </div>
     <div className="box7">
         <img className="icon" src="images/icon7.png" ></img>

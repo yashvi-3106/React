@@ -8,11 +8,14 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "yashvi": "vite"
+     "build": "babel src -d lib",
+    "test": "jest"
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "render": "^0.1.4",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
